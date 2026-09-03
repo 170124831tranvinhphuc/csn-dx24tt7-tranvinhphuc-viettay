@@ -9,12 +9,15 @@
   - **Mã số sinh viên:** 170124831
   - **Lớp:** dx24tt7
 
-## 🚀 2. Tính năng chính
-- [x] **Tính năng 1:** Mô tả ngắn gọn
-- [x] **Tính năng 2:** Mô tả ngắn gọn
-- [x] **Tính năng 3:** Đang phát triển / Dự kiến
+# ==============================================================================
+# HỆ THỐNG CẤU TRÚC BÀI TOÁN NHẬN DẠNG CHỮ SỐ VIẾT TAY (HANDWRITTEN DIGIT RECOGNITION)
+# ==============================================================================
 
-## 🛠️ 3. Công nghệ sử dụng 
-- **Ngôn ngữ lập trình:** C / C++ / Python / VBA...
-- **Cơ sở dữ liệu:** SQL Server
-- **Công cụ / Công nghệ:** GitHub, Visual Studio, Excel...
+# 1. Định nghĩa các trụ cột công nghệ & bài toán
+
+# 2. In bảng tổng quan khái niệm
+
+# 3. Hàm kiểm tra tính ứng dụng của bài toán
+
+
+# 4. Ví dụ thực thi truy xuất bài toán cốt lõi:
